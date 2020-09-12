@@ -14,11 +14,7 @@
 html{
         scroll-behaviour: smooth;
 }
-.hello img{
-  width: 100px;
-  height: 100px;
-  display: block;
-}
+
 header,section{
   overflow-x: hidden;
 }
